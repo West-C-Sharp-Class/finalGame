@@ -39,7 +39,7 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblKnightForestStart.AutoSize = true;
-            this.lblKnightForestStart.BackColor = System.Drawing.Color.Black;
+            this.lblKnightForestStart.BackColor = System.Drawing.Color.DarkGreen;
             this.lblKnightForestStart.Location = new System.Drawing.Point(417, 133);
             this.lblKnightForestStart.Name = "lblKnightForestStart";
             this.lblKnightForestStart.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
@@ -60,7 +60,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(596, 280);
+            this.button2.Location = new System.Drawing.Point(592, 280);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(188, 59);
             this.button2.TabIndex = 2;
